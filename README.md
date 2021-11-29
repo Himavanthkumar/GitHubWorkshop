@@ -34,3 +34,5 @@ sno|Name
 ----|----
 1|hk
 2|pk
+<!-- Inserting an emoji-->
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
